@@ -1,5 +1,8 @@
 def main():
-  print('You rolled a die')
+  print(f'You rolled a die'{roll})
+  roll=5
+  
+
 
 if __name__== "__main__":
   main()
