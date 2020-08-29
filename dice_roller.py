@@ -1,5 +1,5 @@
 def main():
-  print(f'You rolled a die'{roll})
+  print(f'You rolled a '{roll})
   roll=5
   
 
